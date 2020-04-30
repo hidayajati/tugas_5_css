@@ -1,0 +1,48 @@
+.div_menu {
+  background-color: black;
+  /* color: white; */
+  margin-bottom: 4px;
+}
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
+}
+
+.div_slider {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.slider {
+  display: inline-block;
+  width: 48%;
+  height: auto;
+}
+
+p {
+  text-align: justify;
+}
+
+.footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.alamat_footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
